@@ -16,7 +16,6 @@ Election-Audit Results: Using a bulleted list, address the following election ou
         Winner: Diana DeGette
         Winning Vote Count: 272,892
         Winning Percentage: 73.8%
-Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
 This code can be used to tabulate the number of votes for any county given that the data come in the safe raw csv formatting. Some things that could change for larger election would the addtions of occupation, ethnicty, age. 
 For these elections we would want to include the same statistical breakdown for each of these categories. To do so we would just follow the same pattern. Ex. This can be done as many times as needed
 
